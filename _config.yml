@@ -1,5 +1,5 @@
 # Site settings
-title: ProtoMED: MUN Biomedical Engineering
+title: ProtoMED, MUN Biomedical Engineering
 description: MUN ProtoMED is a biomedical engineering team focused on rapid prototyping, especially 3D printing.
 # baseurl: "/particle" # the subpath of your site, e.g. /bloge
 url: "http://protomed.ca"
