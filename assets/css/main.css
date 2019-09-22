@@ -5134,7 +5134,8 @@ body {
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
-	width:100%;
+	max-width:100%;
+	padding:10pt;
 	height:200pt
 }
 
