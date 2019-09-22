@@ -1,8 +1,8 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: ProtoMED: MUN Biomedical Engineering
+description: MUN ProtoMED is a biomedical engineering team focused on rapid prototyping, especially 3D printing.
+# baseurl: "/particle" # the subpath of your site, e.g. /bloge
+url: "http://protomed.ca"
 
 # User settings
 username: MUN ProtoMED
