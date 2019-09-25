@@ -5121,7 +5121,7 @@ body {
 	background-repeat: no-repeat;
 	background-size: contain;
 	display:inline-block;
-	min-width:95%;
+	min-width:80vh;
 	height: 70pt
 }
 
