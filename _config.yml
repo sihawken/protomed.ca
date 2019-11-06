@@ -1,16 +1,22 @@
-# Site settings
+---
 title: ProtoMED, MUN Biomedical Engineering
-description: MUN ProtoMED is a biomedical engineering team focused on rapid prototyping, especially 3D printing.
-# baseurl: "/particle" # the subpath of your site, e.g. /bloge
-url: "http://protomed.ca"
-
-# User settings
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: MUN ProtoMED is a biomedical engineering team focused on rapid prototyping,
+  especially 3D printing.
+url: http://protomed.ca
 username: MUN ProtoMED
 user_description: 
 user_title: MUN Biomedical Engineering Team
-
-# Google-analytics
 google-analytics:
-  id: ""
-
-exclude: ['package.json', 'src' , 'node_modules']
+  id: ''
+exclude:
+- package.json
+- src
+- node_modules
